@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lisa",
-    "currentPage": "sketches.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -70,7 +70,7 @@
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -119,8 +119,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#475577",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -160,9 +160,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
@@ -250,8 +250,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#475577",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -291,9 +291,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
@@ -378,6 +378,19 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".lead": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -404,8 +417,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Lisa Ottenburgh&nbsp;",
-          "text": "<p><p></p><p>1997, lives in Ghent, Belgium</p>studies illustration at LUCA School of Arts&nbsp;</p><p><p></p><p>contact: lisa.ottenburgh@gmail.com</p></p>",
+          "title": "Lisa Ottenburgh",
+          "text": "<p></p><p></p><p>1997, lives in Ghent, Belgium</p>studies illustration at LUCA School of Arts&nbsp;<p></p><p></p><p></p><p>contact: lisa.ottenburgh@gmail.com</p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
@@ -434,8 +447,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#475577",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -475,9 +488,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
@@ -568,7 +581,14 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "The Table&nbsp;"
+          "text": "De Tafel",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -694,7 +714,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>'Nothing'&nbsp;</p>"
+          "text": "<p>'Niets'&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -780,7 +806,13 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Cards&nbsp;</p>"
+          "text": "<p>Cards&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1015,7 +1047,14 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>drawings based on the story&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">'Daar zijn ze'&nbsp;</span></p><p>by Annelies Verbeke&nbsp;</p>"
+          "text": "<p>drawings based on the story&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">'Daar zijn ze'&nbsp;</span></p><p>by Annelies Verbeke&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1087,7 +1126,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "17px"
+              "font-size": "15px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "content1-s",
@@ -1109,16 +1150,6 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lisa-ottenburgh1-2000x2971-9-2000x2971-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lisa-ottenburgh1-2000x2971-9.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1126,7 +1157,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lisaottenburgh2-2000x3155-73-2000x3155-55.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lisaottenburgh2-2000x3155-73.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -1203,16 +1234,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2440-2000x1447-61-2000x1447-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2440-2000x1447-61.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2434-2000x1454-74-2000x1454-27.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2434-2000x1454-74.jpg",
                 "caption": "Type caption here",
@@ -1226,7 +1247,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2435-2000x1458-31-2000x1458-9.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2435-2000x1458-31.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1252,7 +1273,14 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "sketches for projects etc&nbsp;"
+          "text": "sketches for projects &nbsp;",
+          "_styles": {
+            "DIV": {
+              "font-size": "15px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "gallery1",

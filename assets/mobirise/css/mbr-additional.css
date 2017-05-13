@@ -1,7 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -436,7 +439,7 @@ h6,
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
   color: #475577;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-2 .link {
   font-size: 0.7rem;
@@ -486,6 +489,9 @@ h6,
   color: #475577;
 }
 
+
+
+
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -503,7 +509,7 @@ h6,
 #ext_menu-4 .link,
 #ext_menu-4 .dropdown-item {
   color: #475577;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-4 .link {
   font-size: 0.7rem;
@@ -556,6 +562,19 @@ h6,
 #msg-box3-c p {
   color: #000;
 }
+#msg-box3-c .mbr-section-title {
+  font-family: 'Slabo 27px', serif;
+  font-size: 36px;
+}
+#msg-box3-c .lead P {
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box3-c .lead {
+  font-family: 'Slabo 27px', serif;
+}
+
+
+
 
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -574,7 +593,7 @@ h6,
 #ext_menu-d .link,
 #ext_menu-d .dropdown-item {
   color: #475577;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-d .link {
   font-size: 0.7rem;
@@ -627,6 +646,19 @@ h6,
 #header3-f .mbr-section-subtitle {
   text-align: center;
 }
+#content1-j DIV {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+#content1-i P {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content1-l P {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
 
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
@@ -694,8 +726,17 @@ h6,
 #footer1-p P {
   color: #475577;
 }
+#content1-q P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
 #content1-s P {
-  font-size: 17px;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-u DIV {
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 
 #ext_menu-w .hide-buttons .nav-btn {
