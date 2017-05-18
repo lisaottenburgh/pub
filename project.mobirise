@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lisa",
-    "currentPage": "about.html",
+    "currentPage": "figure drawing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -575,20 +575,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-j",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "De Tafel",
           "_styles": {
             "DIV": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "16px"
             }
-          }
+          },
+          "_anchor": "content1-j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "De Tafel"
         },
         {
           "_inherit": "gallery1",
@@ -607,26 +607,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan0009-2000x2724-26-2000x2724-28.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan0009-2000x2724-26.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tafel-2000x2627-79-2000x2627-67.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tafel-2000x2627-79.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2351-2000x1265-11-2000x1265-72.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2351-2000x1265-11.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -651,22 +631,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2359-2000x3053-87-2000x3053-36.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2359-2000x3053-87.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan0001-kopie-2000x2686-44-2000x2686-50.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan0001-kopie-2000x2686-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2565-800x1026.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2565.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -675,8 +645,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan0005-2000x2783-99-2000x2783-85.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan0005-2000x2783-99.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x3053-800x1221.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x3053.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -685,10 +655,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2352-2000x1333-11-2000x1333-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2352-2000x1333-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fig-2000x2587-800x1034.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fig-2000x2587.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan0005-2000x2783-800x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan0005-2000x2783.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1111-2000x2686-800x1074.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1111-2000x2686.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -708,19 +698,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "content1-i",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>'Niets'&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "text": "<p>'Niets'&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -800,19 +790,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "content1-l",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Cards&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "<p>Cards&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1041,20 +1031,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-q",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p>drawings based on the story&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">'Daar zijn ze'&nbsp;</span></p><p>by Annelies Verbeke&nbsp;</p>",
           "_styles": {
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "15px"
             }
-          }
+          },
+          "_anchor": "content1-q",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>drawings based on the story&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">'Daar zijn ze'&nbsp;</span></p><p>by Annelies Verbeke&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1267,20 +1257,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "sketches for projects &nbsp;",
           "_styles": {
             "DIV": {
               "font-size": "15px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "sketches for projects &nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -1493,13 +1483,13 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "timeout": "6",
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4105-2000x1478-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1513,7 +1503,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4106-2000x1460-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamlo4os-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1527,7 +1517,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4108-2000x2907-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-1-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1541,7 +1531,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4104-2000x2936-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-2-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1555,7 +1545,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4109-2000x2746-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-3-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1569,7 +1559,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4102-2000x1391-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-4-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1583,7 +1573,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4110-2000x2745-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-5-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1597,7 +1587,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4111-2000x2885-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-6-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1611,21 +1601,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4112-2000x1242-83.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4115-2000x1398-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-7-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1639,7 +1615,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-4116-2000x2935-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-8-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1654,7 +1630,7 @@
             ],
             "fullScreen": false,
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "slider3-y",
           "articleLayout": false
