@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lisa",
-    "currentPage": "figure drawing.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -580,6 +580,11 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "16px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_anchor": "content1-j",
@@ -588,7 +593,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "De Tafel"
+          "text": "<p>'De Tafel'</p><p>A serie of drawings about tables and what happens around them.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -668,7 +673,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/scan0005-2000x2783-800x1113.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan0005-2000x2783.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -678,7 +683,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1111-2000x2686-800x1074.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1111-2000x2686.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -700,8 +705,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "12px"
             }
           },
           "_anchor": "content1-i",
@@ -710,7 +716,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>'Niets'&nbsp;</p>"
+          "text": "<p>'Niets'&nbsp;</p><p>drawings based on the play and book 'niets' by Janne Teller.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -792,8 +798,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "12px"
             }
           },
           "_anchor": "content1-l",
@@ -802,7 +809,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Cards&nbsp;</p>"
+          "text": "<p>Paintings of an African tribe and &nbsp;Paris-Roubaix 2017. &nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1033,9 +1040,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "15px"
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
             }
           },
           "_anchor": "content1-q",
@@ -1044,7 +1051,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>drawings based on the story&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">'Daar zijn ze'&nbsp;</span></p><p>by Annelies Verbeke&nbsp;</p>"
+          "text": "<p>'Daar zijn ze'&nbsp;</p><p>Drawings based on the story <span style=\"line-height: 1.5;\">by Annelies Verbeke&nbsp;</span></p>"
         },
         {
           "_inherit": "gallery1",
@@ -1116,9 +1123,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "15px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-size": "13px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_anchor": "content1-s",
@@ -1127,7 +1134,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Class Sketchbook&nbsp;</p><p>drawings from drama students at Kask, play rehearsels of Ntgent, exercises in class, ...&nbsp;</p>"
+          "text": "<p>Class Sketchbook&nbsp;</p><p>drawings of drama students at Kask, play rehearsels of Ntgent, exercises in class, ...&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1139,16 +1146,6 @@
             "paddingTop": "0",
             "paddingBottom": 4,
             "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lisaottenburgh2-2000x3155-73-2000x3155-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lisaottenburgh2-2000x3155-73.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
               {
                 "tags": "Creative",
                 "playVideo": false,
@@ -1174,38 +1171,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2430-2000x2910-82-2000x2910-33.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2430-2000x2910-82.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2438-2000x1333-59-2000x1333-68.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2438-2000x1333-59.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2436-2000x1990-0-2000x1990-35.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2436-2000x1990-0.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2429-2000x1453-13-2000x1453-41.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2429-2000x1453-13.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1217,15 +1184,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2431-2000x3796-79-2000x3796-73.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2431-2000x3796-79.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2434-2000x1454-74-2000x1454-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2434-2000x1454-74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2429-2000x1453-13-2000x1453-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2429-2000x1453-13.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1259,9 +1226,9 @@
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "font-size": "15px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-size": "13px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_anchor": "content1-u",

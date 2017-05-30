@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
@@ -576,6 +576,7 @@ h6,
 
 
 
+
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -650,11 +651,17 @@ h6,
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
 }
+#content1-j P {
+  font-size: 12px;
+  font-family: 'Roboto Slab', serif;
+}
 #content1-i P {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  font-size: 12px;
 }
 #content1-l P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  font-size: 12px;
 }
 
 
@@ -727,16 +734,16 @@ h6,
   color: #475577;
 }
 #content1-q P {
-  font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 #content1-s P {
-  font-size: 15px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  font-family: 'Roboto Slab', serif;
 }
 #content1-u DIV {
-  font-size: 15px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  font-family: 'Roboto Slab', serif;
 }
 
 #ext_menu-w .hide-buttons .nav-btn {
