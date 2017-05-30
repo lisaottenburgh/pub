@@ -1489,7 +1489,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamlo4os-1-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1503,7 +1503,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamlo4os-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-9-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1517,7 +1517,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-1-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-10-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1531,7 +1531,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-2-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-11-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1545,7 +1545,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-3-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-12-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1559,7 +1559,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-4-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-13-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1573,7 +1573,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-5-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-14-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1587,7 +1587,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-6-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-15-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1601,7 +1601,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-7-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-16-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1615,7 +1615,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/naamloos-8-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-17-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
